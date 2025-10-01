@@ -55,3 +55,47 @@ The project demonstrates **React skills in state management, context API, valida
 ---
 
 ## 📂 File/Folder Structure
+.
+├── src/
+|     components/
+│      ├── Cart.js
+|      ├── CartItem.js
+|      ├── Product.js
+|      ├── Product.js
+│      └── Header.js
+|      data/
+|      ├── productData.js
+|      utils/
+|      ├── constants.js
+├── public/
+|      Images/
+├── README.md
+└── requirements.txt
+.
+
+---
+
+## 🛠️ Tech Stack
+- **React.js** (Frontend library)
+- **Context API** (State management)
+- **CSS** (Styling)
+- **Toast notifications** (User feedback)
+
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/react-ecommerce-cart.git
+cd react-ecommerce-cart
+```
+
+### 2. Install Dependencies
+```bash
+   npm install
+```
+### 3. Start Development Server
+```bash
+   npm start
+```
