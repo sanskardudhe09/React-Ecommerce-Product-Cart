@@ -54,27 +54,6 @@ The project demonstrates **React skills in state management, context API, valida
 
 ---
 
-## 📂 File/Folder Structure
-.
-├── src/
-|     components/
-│      ├── Cart.js
-|      ├── CartItem.js
-|      ├── Product.js
-|      ├── Product.js
-│      └── Header.js
-|      data/
-|      ├── productData.js
-|      utils/
-|      ├── constants.js
-├── public/
-|      Images/
-├── README.md
-└── requirements.txt
-.
-
----
-
 ## 🛠️ Tech Stack
 - **React.js** (Frontend library)
 - **Context API** (State management)
