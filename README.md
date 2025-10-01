@@ -1,8 +1,5 @@
 # 🛒 React E-commerce Product Cart
 
-## 📌 Project Title
-**React E-commerce Product Cart**
-
 ## 🎯 Objective
 To develop a React-based e-commerce application where users can browse a list of products on the home page and manage a shopping cart by adding products, adjusting quantities, and removing items.
 
