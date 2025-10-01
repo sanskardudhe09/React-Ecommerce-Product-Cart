@@ -75,3 +75,8 @@ cd react-ecommerce-cart
 ```bash
    npm start
 ```
+### 4. Screenshots (ON Ubuntu OS):
+<img width="1844" height="1011" alt="Screenshot from 2025-10-01 11-46-28" src="https://github.com/user-attachments/assets/bebbea4b-0891-483f-bd82-2a86bdd5948b" />
+
+<img width="1848" height="1012" alt="Screenshot from 2025-10-01 11-47-24" src="https://github.com/user-attachments/assets/9df757f4-deea-46de-9e35-711d94acfce1" />
+
